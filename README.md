@@ -13,7 +13,7 @@ You should round down the minutes past the hour to the nearest 5 for the purpose
 Examples:
 
 21:35
-
+<pre>
         o
     o       o
 
@@ -25,8 +25,9 @@ h               o
 
     m       o
         o
+</pre>        
 04:59
-
+<pre>
         o
     m       o
 
@@ -38,6 +39,7 @@ o               o
 
     o       o
         o
+</pre>
         
 #Pre-requisites
 Runs on a mac machine. Assumes you have a javascript interpreter present in this location - 
